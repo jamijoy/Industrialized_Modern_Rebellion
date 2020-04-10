@@ -6,11 +6,11 @@ Project Details "
 
 Type : Open GL Project
 File Content : .cbp .cpp .layout
-
+Semester : Spring 19-20
 _________________________________________
 
 Submitted To :
-Sir Aneem Rupa
+Sir Aneem Rupai
 _________________________________________
 
 Submitted By :
